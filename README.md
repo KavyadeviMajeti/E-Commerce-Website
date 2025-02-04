@@ -42,13 +42,11 @@ To get started with the project locally, follow these steps:
 - Advanced filtering and sorting of products
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourusername) - Developer
+- Kavyadevi Majeti (https://github.com/KavyadeviMajeti) - Developer
 
 ## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source 
 
-## 📞 Contact
-For any inquiries or questions, feel free to reach out to me at [your email] or visit my [portfolio](https://yourportfolio.com).
 
 ---
 © 2024 Your Name
